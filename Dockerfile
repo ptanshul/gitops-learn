@@ -13,6 +13,9 @@ COPY . .
 # Now install your requirements
 # Now install your requirements
 # Now install your requirements
+# Now install your requirements
+# Now install your requirements
+# Now install your requirements
 RUN pip install flask
 
 EXPOSE 5000
